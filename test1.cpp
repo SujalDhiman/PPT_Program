@@ -32,6 +32,5 @@ int main()
             cout<<v[i]<<" "<<v[j]<<endl;
             break;
         }
-        cout<<"Bye"<<endl;
     }
 }
